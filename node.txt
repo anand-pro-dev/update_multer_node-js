@@ -1,0 +1,8 @@
+npm init -y 
+"type": "module",
+
+npm i -D nodemon 
+ "dev": "nodemon index.js"
+npm run dev
+
+
